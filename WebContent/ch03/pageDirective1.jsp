@@ -8,6 +8,6 @@
 </head>					
 <body>
 	<h2>디렉티브 예제1-info, language, contentType 속성사용</h2>
-	<%=getServletInfo()%> %>
+	<%=getServletInfo()%>
 </body>
 </html>
